@@ -53,3 +53,15 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+/app/src/main/java/com/gautamastudios/currencyexchange/CurrencyExchangeApplication.java
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+out
+gen
+.gitignore
+build.gradle
+libs/
+proguard-rules.pro

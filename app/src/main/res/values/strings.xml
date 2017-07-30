@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_own_amount">You have $ 0.00</string>
+    <string name="splash_screen_text">Splash Screen</string>
+    <string name="splash_screen_sub_text">Syncing Supported Currencies</string>
+</resources>
